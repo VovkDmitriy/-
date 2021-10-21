@@ -1,0 +1,7 @@
+D:\Рабочий стол\безпека\lab21\lab21\bin\Debug\lab21.exe.config
+D:\Рабочий стол\безпека\lab21\lab21\bin\Debug\lab21.exe
+D:\Рабочий стол\безпека\lab21\lab21\bin\Debug\lab21.pdb
+D:\Рабочий стол\безпека\lab21\lab21\obj\Debug\lab21.csprojAssemblyReference.cache
+D:\Рабочий стол\безпека\lab21\lab21\obj\Debug\lab21.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\безпека\lab21\lab21\obj\Debug\lab21.exe
+D:\Рабочий стол\безпека\lab21\lab21\obj\Debug\lab21.pdb

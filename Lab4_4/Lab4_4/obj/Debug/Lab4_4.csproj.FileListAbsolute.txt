@@ -1,0 +1,7 @@
+D:\Рабочий стол\безпека\Lab4_4\Lab4_4\bin\Debug\Lab4_4.exe.config
+D:\Рабочий стол\безпека\Lab4_4\Lab4_4\bin\Debug\Lab4_4.exe
+D:\Рабочий стол\безпека\Lab4_4\Lab4_4\bin\Debug\Lab4_4.pdb
+D:\Рабочий стол\безпека\Lab4_4\Lab4_4\obj\Debug\Lab4_4.csprojAssemblyReference.cache
+D:\Рабочий стол\безпека\Lab4_4\Lab4_4\obj\Debug\Lab4_4.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\безпека\Lab4_4\Lab4_4\obj\Debug\Lab4_4.exe
+D:\Рабочий стол\безпека\Lab4_4\Lab4_4\obj\Debug\Lab4_4.pdb

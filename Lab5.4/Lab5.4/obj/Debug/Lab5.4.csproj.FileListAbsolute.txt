@@ -1,0 +1,7 @@
+D:\Рабочий стол\безпека\Lab5.4\Lab5.4\bin\Debug\Lab5.4.exe.config
+D:\Рабочий стол\безпека\Lab5.4\Lab5.4\bin\Debug\Lab5.4.exe
+D:\Рабочий стол\безпека\Lab5.4\Lab5.4\bin\Debug\Lab5.4.pdb
+D:\Рабочий стол\безпека\Lab5.4\Lab5.4\obj\Debug\Lab5.4.csprojAssemblyReference.cache
+D:\Рабочий стол\безпека\Lab5.4\Lab5.4\obj\Debug\Lab5.4.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\безпека\Lab5.4\Lab5.4\obj\Debug\Lab5.4.exe
+D:\Рабочий стол\безпека\Lab5.4\Lab5.4\obj\Debug\Lab5.4.pdb

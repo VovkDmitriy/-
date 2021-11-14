@@ -1,0 +1,7 @@
+D:\Рабочий стол\безпека\lab6.1\lab6.1\bin\Debug\lab6.1.exe.config
+D:\Рабочий стол\безпека\lab6.1\lab6.1\bin\Debug\lab6.1.exe
+D:\Рабочий стол\безпека\lab6.1\lab6.1\bin\Debug\lab6.1.pdb
+D:\Рабочий стол\безпека\lab6.1\lab6.1\obj\Debug\lab6.1.csprojAssemblyReference.cache
+D:\Рабочий стол\безпека\lab6.1\lab6.1\obj\Debug\lab6.1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\безпека\lab6.1\lab6.1\obj\Debug\lab6.1.exe
+D:\Рабочий стол\безпека\lab6.1\lab6.1\obj\Debug\lab6.1.pdb

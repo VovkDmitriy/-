@@ -1,6 +1,0 @@
-D:\Рабочий стол\безпека\laba1\laba1\bin\Debug\laba1.exe
-D:\Рабочий стол\безпека\laba1\laba1\bin\Debug\laba1.pdb
-D:\Рабочий стол\безпека\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
-D:\Рабочий стол\безпека\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
-D:\Рабочий стол\безпека\laba1\laba1\obj\Debug\laba1.exe
-D:\Рабочий стол\безпека\laba1\laba1\obj\Debug\laba1.pdb

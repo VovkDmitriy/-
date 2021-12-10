@@ -1,0 +1,7 @@
+D:\Рабочий стол\безпека\Lab11\Lab11\bin\Debug\Lab11.exe.config
+D:\Рабочий стол\безпека\Lab11\Lab11\bin\Debug\Lab11.exe
+D:\Рабочий стол\безпека\Lab11\Lab11\bin\Debug\Lab11.pdb
+D:\Рабочий стол\безпека\Lab11\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+D:\Рабочий стол\безпека\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\безпека\Lab11\Lab11\obj\Debug\Lab11.exe
+D:\Рабочий стол\безпека\Lab11\Lab11\obj\Debug\Lab11.pdb

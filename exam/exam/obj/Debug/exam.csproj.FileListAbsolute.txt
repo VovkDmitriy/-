@@ -1,0 +1,7 @@
+D:\Рабочий стол\безпека\exam\exam\bin\Debug\exam.exe.config
+D:\Рабочий стол\безпека\exam\exam\bin\Debug\exam.exe
+D:\Рабочий стол\безпека\exam\exam\bin\Debug\exam.pdb
+D:\Рабочий стол\безпека\exam\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+D:\Рабочий стол\безпека\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\безпека\exam\exam\obj\Debug\exam.exe
+D:\Рабочий стол\безпека\exam\exam\obj\Debug\exam.pdb
